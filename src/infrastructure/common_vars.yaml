@@ -1,0 +1,8 @@
+management_account_id: "486539350180"
+management_account_name: "Management"
+
+remote_state_region: "ap-southeast-2"
+
+default_environment:
+  TF_IN_AUTOMATION: 1
+  TF_INPUT: 0
